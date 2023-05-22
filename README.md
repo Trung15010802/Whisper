@@ -3,6 +3,15 @@
 Whisper 1 fast, lightweight messaging and photo application. Whisper guarantees 100% user privacy because we don't have money to store your information 🥇
 Contact: handsomezezo@gmail.com or trungbui010@gmail.com
 
+Technology used:
+ - Flutter
+ - Firebase authenication, firebase cloudstore, firebase storage.
+
+Video demo:
+
+https://github.com/Trung15010802/Whisper/assets/90593296/6e0cb076-1c68-41d5-91b4-50daecd8dbf5
+
+
 Login Screen
 ![z4365392079101_20deb4343d0851f0c17c803cc0310b46](https://github.com/Trung15010802/Whisper/assets/90593296/b084e437-9902-4a44-81ab-779bb44987b9)
 
