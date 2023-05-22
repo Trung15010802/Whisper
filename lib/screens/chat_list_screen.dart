@@ -113,6 +113,7 @@ class _ChatListScreenState extends State<ChatListScreen> {
                                   ),
                                 ),
                               );
+                              chatService.updateSeenStatus(receiverUser.uid);
                             },
                             title: Row(
                               children: [
