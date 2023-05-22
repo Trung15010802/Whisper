@@ -1,0 +1,45 @@
+name: whisper
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  auto_size_text: ^3.0.0
+  cached_network_image: ^3.2.3
+  chat_bubbles: ^1.4.0
+  cloud_firestore: ^4.5.3
+  email_validator: ^2.1.17
+  firebase_auth: ^4.4.2
+  firebase_core: ^2.10.0
+  firebase_storage: ^11.1.2
+  flutter:
+    sdk: flutter
+
+  flutter_image_compress: ^2.0.3
+  google_fonts: ^4.0.4
+  google_sign_in: ^6.1.0
+  image_picker: ^0.8.7+4
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/logo/profile.png"
+  icon_size: 256
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo/
+    - assets/imgs/
+
+
